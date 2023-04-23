@@ -1,7 +1,6 @@
 pipeline {
     agent any
         tools { go 'go-1.19' } // Comes from the jenkins global config
-}
 
     environment {
         ENV = "${env.BRANCH_NAME == 'master' ? 'PROD' : 'DEV'}"
@@ -33,6 +32,7 @@ pipeline {
             }
             steps {
                 sh 'export JENKINS_NODE_COOKIE=do_not_kill ; bash scripts/deploy.sh'
+                }
             }
         }
     }
