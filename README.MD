@@ -11,8 +11,10 @@ Neste laboratório, você será um novo Engenheiro de DevOps em uma startup que 
 ## Tecnologias 
 
 >   Github
+
 >   Jenkins
->   Slack
+
+>   Slack   
 
 ## Desafio
 
