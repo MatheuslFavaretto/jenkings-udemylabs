@@ -31,12 +31,12 @@ Você precisará criar um pipeline do Jenkins Multibranch (como código) que ir�
 ## Tarefas Feitas
 
 
-Integração Contínua
-Entrega/Implantação Contínua
-Pipelines como Código
-Testes Contínuos
-DevSecOps
-Integrações do Jenkins com ferramentas populares de DevOps
+-   Integração Contínua,
+-   Entrega/Implantação Contínua
+-   Pipelines como Código
+-   Testes Contínuos
+-   DevSecOps
+-   Integrações do Jenkins com ferramentas populares de DevOps
 
 ## Demonstrações
 
