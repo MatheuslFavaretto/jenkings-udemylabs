@@ -3,6 +3,9 @@
 ![jenkins_logo_icon_170552](https://user-images.githubusercontent.com/116848225/233863967-7dd296ca-1e34-46cf-b44a-91294922e048.png)
 ![github_original_wordmark_logo_icon_146506](https://user-images.githubusercontent.com/116848225/233863970-6f213bd3-423e-4760-acb7-89357ed5dafe.png)
 ![slack_tile_logo_icon_168820](https://user-images.githubusercontent.com/116848225/233863979-e2190d50-a0c2-46af-b434-42dcc601f3ab.png)
+![docker_original_wordmark_logo_icon_146557](https://user-images.githubusercontent.com/116848225/233864140-7df7f435-152a-4681-9c30-43ebb8b20f64.png)
+![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/116848225/233864144-eaf4f950-1475-41cc-afc8-a0e2471788f1.png)
+
 
 ##
 
@@ -14,7 +17,9 @@ Neste laboratório, você será um novo Engenheiro de DevOps em uma startup que 
 
 >   Jenkins
 
->   Slack   
+>   Slack
+
+>   Docker(Utilizando o exclusivamente para executar o Jenkins.)
 
 ## Desafio
 
